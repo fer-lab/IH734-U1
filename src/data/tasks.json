@@ -1,0 +1,81 @@
+[
+  {
+    "code": "UT-98",
+    "tasks": [
+      "Generar Header"
+    ]
+  },
+  {
+    "code": "UT-99",
+    "tasks": [
+      "Slider Promociones",
+      "Destinos Destacados",
+      "Productos Destacados"
+    ]
+
+  },
+  {
+    "code": "UT-100",
+    "tasks": [
+      "Lista de Destinos"
+    ]
+  },
+  {
+    "code": "UT-101",
+    "tasks": [
+      "Lista de Productos"
+    ]
+  },
+  {
+    "code": "UT-102",
+    "tasks": [
+      "Vista Producto General",
+      "Galería de Imágenes",
+      "Descripción del Producto",
+      "Incluye / No Incluye",
+      "Precios",
+      "CTA Reserva"
+    ]
+  },
+  {
+    "code": "UT-103",
+    "tasks": [
+      "Producto a Reservar",
+      "Datos Pasajeros",
+      "Forma de Pago"
+    ]
+  },
+  {
+    "code": "UT-104",
+    "tasks": [
+      "Resumen de Confirmación"
+    ]
+  },
+  {
+    "code": "UT-105",
+    "tasks": [
+      "Página de Contacto",
+      "Formulario de Contacto"
+    ]
+  },
+  {
+    "code": "UT-106",
+    "tasks": [
+      "Página Acerca de Empresa"
+    ]
+  },
+  {
+    "code": "UT-107",
+    "tasks": [
+      "Ronda de Pruebas"
+    ],
+    "user": 2
+  },
+  {
+    "code": "UT-108",
+    "tasks": [
+      "Calidad de Información"
+    ],
+    "user": 2
+  }
+]
