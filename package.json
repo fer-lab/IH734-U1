@@ -42,5 +42,7 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.2.4"
-  }
+  },
+  "homepage": "https://udg.s3.amazonaws.com/LDSW/IH734/U1/AI/"
+
 }
